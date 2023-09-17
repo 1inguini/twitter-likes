@@ -1,8 +1,5 @@
 {
   "extends": "@tsconfig/node20/tsconfig.json",
-  "ts-node": {
-    "esm": true,
-  },
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
     /* Projects */
