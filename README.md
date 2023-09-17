@@ -1,6 +1,6 @@
 # twitter-likes
 
-無為がtwitterのlikeの画像をダウンロードしたいと言っていたので参考になるように作ってみた。
+[無為](https://github.com/muimui20080903)がtwitterのlikeの画像をダウンロードしたいと [TwitterSavpic](https://github.com/muimui20080903/TwitterSavpic) を作っていたので参考になるように作ってみた。
 
 `secret/index.ts` の中身
 
